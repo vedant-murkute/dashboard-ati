@@ -1,0 +1,23 @@
+.navbar{
+  padding: 0 20vh;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: teal;
+}
+
+.navbar span{
+  font-size: 40px;
+  font-weight: 500;
+}
+
+.list-container{
+  
+}
+
+.list{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}

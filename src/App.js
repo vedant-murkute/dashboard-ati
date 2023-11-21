@@ -1,24 +1,24 @@
-import logo from './logo.svg';
-import './App.css';
+import { RecoilRoot } from "recoil";
+import "./App.css";
+import { CompanyList } from "./components/CompantList";
+import { Navbar } from "./components/Navbar";
+import { Chart } from "./components/Chart";
+import { Joystick } from "./components/Joystick";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Navbar></Navbar>
+      <div className="container">
+        <div className="left-section">
+          <CompanyList></CompanyList>
+        </div>
+        <div className="right-section">
+          <Chart></Chart>
+          <Joystick></Joystick>
+        </div>
+      </div>
+    </>
   );
 }
 
