@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dashboard-ati/static/css/main.b3efaa1c.css",
+    "main.css": "/dashboard-ati/static/css/main.60c45810.css",
     "main.js": "/dashboard-ati/static/js/main.3a56f42a.js",
     "static/media/enterprise.png": "/dashboard-ati/static/media/enterprise.fd8d2ad9b8a800b70900.png",
     "static/media/roboto-latin-500-normal.woff2": "/dashboard-ati/static/media/roboto-latin-500-normal.f25d774ecfe0996f8eb5.woff2",
@@ -60,11 +60,11 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/dashboard-ati/static/media/roboto-greek-ext-400-normal.f708607d2a7290fb8bfa.woff",
     "static/media/roboto-greek-ext-700-normal.woff": "/dashboard-ati/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/dashboard-ati/index.html",
-    "main.b3efaa1c.css.map": "/dashboard-ati/static/css/main.b3efaa1c.css.map",
+    "main.60c45810.css.map": "/dashboard-ati/static/css/main.60c45810.css.map",
     "main.3a56f42a.js.map": "/dashboard-ati/static/js/main.3a56f42a.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3efaa1c.css",
+    "static/css/main.60c45810.css",
     "static/js/main.3a56f42a.js"
   ]
 }
